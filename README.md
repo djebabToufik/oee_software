@@ -8,8 +8,9 @@
 This project is a **manufacturing efficiency and maintenance management platform** designed to help factories track **Overall Equipment Effectiveness (OEE)** and manage maintenance tasks using a **Computerized Maintenance Management System (CMMS)**. It provides real-time insights into machine performance, downtime, and maintenance schedules to improve productivity and reduce operational costs.  
 ## Demo app
 * You can access to a [deployed app](https://app.opensourceoeesoftware.com)
-* You can use this crendentials for a demo account **username**: demo_user, **password** oeesoftwaredemo
+* You can use this crendentials for a demo account **username: demo_user** , **password: oeesoftwaredemo**
 * This app is deployed in an EC2 AWS instance only for demo purposes and it is not expected to maintenance performances under stress
+* Visit [official website](https://www.opensourceoeesoftware.com) more for info
 
 ## Key Features  
 ✔ **OEE Tracking**: Measures **Availability, Performance, and Quality** of production lines.  
