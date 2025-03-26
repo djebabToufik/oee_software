@@ -49,8 +49,13 @@ POSTGRES_DB=database_portfolio
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=password
 
+#Django variables
 SECRET_KEY='django-insecure'
 DEBUG=True
+ALLOWED_HOSTS=app.app.com
+CORS_ALLOWED_ORIGINS =*
+CSRF_TRUSTED_ORIGINS =*
+
 #Email CONFIG for account creation and password reset
 EMAIL_HOST=mail.mail.io
 EMAIL_HOST_USER=mail@mail.io
